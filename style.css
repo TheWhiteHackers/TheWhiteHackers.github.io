@@ -39,7 +39,7 @@ h1 {
 #centerbox{
     /* background-color: red; */
     height: 400px;
-    width: 80%;
+    width: 60%;
     color:white;
     display: flex;
     flex-direction: column;
